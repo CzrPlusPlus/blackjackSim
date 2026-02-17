@@ -11,3 +11,8 @@
 
 ## Results 
 ![Image](https://github.com/user-attachments/assets/a5111a75-d0cc-46e6-83a0-c17ab063da58)
+
+---
+
+## Conclusions
+![Image](https://github.com/user-attachments/assets/72b57060-5c14-458b-990b-be78d73ffb9d)
