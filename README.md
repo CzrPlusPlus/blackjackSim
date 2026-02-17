@@ -1,4 +1,4 @@
-# ♦ Blackjack Simulation Project ♦
+# <p ♦ Blackjack Simulation Project ♦ align='center'/>
 ## Problem Statement
 ![Image](https://github.com/user-attachments/assets/5a6baaa0-b763-400b-925b-5acf6053ad34)
 
